@@ -1,2 +1,2 @@
 # rubber-ducky-attempt
-nefunguje vím proč ale nevim jak to spravit
+nefunguje nevím proč ani jak to spravit
